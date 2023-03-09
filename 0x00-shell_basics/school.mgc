@@ -1,2 +1,3 @@
 #!/bin/bash
-grep -rnw . -e 'SCHOOL'
+0 string SCHOOL School
+!:mime School
