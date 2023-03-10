@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "StarWars IV"
+telnet towel.blinkenlights.nl
+
